@@ -2,7 +2,6 @@ import pygame
 from pygame import gfxdraw
 import random
 import os
-#https://github.com/bapiraj/pong-game
 
 pygame.init()
 display_info = pygame.display.Info()
